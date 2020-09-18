@@ -1,0 +1,5 @@
+C:\Users\jessi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csprojAssemblyReference.cache
+C:\Users\jessi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfoInputs.cache
+C:\Users\jessi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfo.cs
+C:\Users\jessi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\jessi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.MvcApplicationPartsAssemblyInfo.cache
